@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Example</title>
+
+<!--  <script type="text/javascript" src="https://getfirebug.com/firebug-lite.js">
+  {
+      overrideConsole: true,
+      startInNewWindow: false,
+      startOpened: true,
+      enableTrace: true
+  }
+  </script>-->
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+
+  <script type="text/javascript" src="./lib/jquery.hotkeys.js"></script>
+
+  <!-- this is all packaged in jquery.accessibilityplayer.min.js -->
+  <script type="text/javascript" src="../lib/jQuery.jPlayer.2.0.0/jquery.jplayer.js"></script>
+  <script type="text/javascript" src="../src/jquery.accessibilityplayer.js"></script>
+  <script type="text/javascript" src="../src/util.js"></script>
+  <script type="text/javascript" src="../src/plugins/audio_descriptors.js"></script>
+  <script type="text/javascript" src="../src/plugins/captions.js"></script>
+  <script type="text/javascript" src="../src/plugins/fullscreen.js"></script>
+  <script type="text/javascript" src="../src/plugins/keyboard_shortcuts.js"></script>
+  <!-- end .min.js packaged js -->
+
+  <link href="./lib/jPlayer.Blue.Monday.2.0.0/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+
+  <script type="text/javascript">
+  //<![CDATA[
+  $(function(){
+	  $(".p1").accessibilityPlayer({
+		  ready: function () {
+			  $(this).jPlayer("setMedia", {
+//				  m4v: "http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer_480x270_h264aac.m4v",
+//				  ogv: "http://www.jplayer.org/video/ogv/Big_Buck_Bunny_Trailer_480x270.ogv",
+//				  poster: "http://www.jplayer.org/video/poster/Big_Buck_Bunny_Trailer_480x270.png"
+//            m4v: "http://bill157.apandrose.com/static/videos/en_CA/H264/D-ENG-H264.mov"
+            m4v: "http://bill157.apandrose.com/static/videos/en_CA/H264/D-ENG-H264.mov"
+//          mp3: './media/D-dv-MP3.mp3'
+//          mp3: 'http://bill157.apandrose.com/static/ad/en_CA/D-dv-MP3.mp3'
+			  });
+		  },
+		  swfPath: "./lib/jQuery.jPlayer.2.0.0",
+		  solution: "flash, html",
+		  supplied: "m4v, ogv",
+//		  supplied: "mp3",
+		  width: '480px',
+		  height: '270px',
+
+      keyboard_shortcuts: true,
+//      captions: './media/example.xml',
+      captions: './media/D-ENG.xml',
+      audio_descriptors:
+      {
+        mp3: './media/D-dv-MP3.mp3'
+//        mp3: 'http://bill157.apandrose.com/static/ad/en_CA/D-dv-MP3.mp3'
+//        m4v: "http://bill157.apandrose.com/static/videos/en_CA/H264/D-ENG-H264.mov"
+      }
+	  });
+
+  });
+  //]]>
+  </script>
+</head>
+
+<body>
+
+  <div class="p1"></div>
+
+</body>
+
+</html>

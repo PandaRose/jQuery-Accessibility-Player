@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1"
+      xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+  <head>
+    <styling>
+      <style id="defaultSpeaker" tts:fontSize="12px" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="left" />
+      <style id="defaultCaption" tts:fontSize="12px" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="left" />
+    </styling>
+  </head>
+  <body id="thebody" style="defaultCaption">
+    <div xml:lang="en">
+      <p begin="0:00:05.44" end="0:00:09.02">Which Student Behaviours Require a Response?</p>
+      <p begin="0:00:09.02" end="0:00:14.87">The Ministry now requires employees of a board who work directly with children and who observe</p>
+      <p begin="0:00:14.87" end="0:00:20.03">a student behaving in a way that is likely to have a negative impact on school climate</p>
+      <p begin="0:00:20.03" end="0:00:27.31">to respond to the behaviour.  These behaviours include racist, sexual, sexist,</p>
+      <p begin="0:00:27.31" end="0:00:33.30">or homophobic comments, slurs, and jokes or graffiti, as well as activities for which</p>
+      <p begin="0:00:33.30" end="0:00:37.67">suspension and expulsion must be considered.</p>
+      <p begin="0:00:37.67" end="0:00:39.90">Who Must Respond?</p>
+      <p begin="0:00:39.90" end="0:00:45.09">This requirement applies to all board employees who work directly with students.</p>
+      <p begin="0:00:45.09" end="0:00:52.16">This includes, but is not limited to, teachers, support staff in social work, child and youth</p>
+      <p begin="0:00:52.16" end="0:00:57.79">work, psychology, and related areas, as well as educational assistants.</p>
+      <p begin="0:00:57.79" end="0:01:00.49">What Does Responding Look Like?</p>
+      <p begin="0:01:00.49" end="0:01:05.26">Responding may include asking a student to stop the inappropriate behaviour, naming the</p>
+      <p begin="0:01:05.26" end="0:01:10.63">type of behaviour and explaining why it is inappropriate and/or disrespectful, and asking</p>
+      <p begin="0:01:10.63" end="0:01:17.09">the student for a change in future behaviour. For an example of an effective board practice, see</p>
+      <p begin="0:01:17.09" end="0:01:21.77">How to Handle Harassment in the Hallways in Three Minutes (from the Toronto District School</p>
+      <p begin="0:01:21.77" end="0:01:26.22">Board) in the Resources section.</p>
+      <p begin="0:01:26.61" end="0:01:30.23">Let's look at an example of responding.</p>
+      <p begin="0:01:34.23" end="0:01:37.36">BALLER #2:  Woah! Nice shot!  Let's go.</p>
+      <p begin="0:01:46.46" end="0:01:51.96">BALLER #1:  Ew! What was that?  Seriously! What was that? You shoot like a retard!</p>
+      <p begin="0:01:51.96" end="0:01:53.20">BALLER #2:  You're the retard!</p>
+      <p begin="0:01:53.20" end="0:01:57.19">BALLER #1:  You know you're the retard. Well you are a retard.</p>
+      <p begin="0:01:57.19" end="0:01:59.46">BALLER #2:  You talk like a retard.  BALLER #1:  Well, you're the retard.</p>
+      <p begin="0:01:59.46" end="0:02:01.73">BALLER #2:  You look like a retard.  BALLER #1:  You're the retard.</p>
+      <p begin="0:02:01.73" end="0:02:03.44">BALLER #2:  You walk like a retard.  BALLER #1:  Retard.</p>
+      <p begin="0:02:03.44" end="0:02:05.41">BALLER #2:  You play like a retard.  BALLER #1:  Retard.</p>
+      <p begin="0:02:05.41" end="0:02:06.79">BALLER #2:  Your face is a retard.</p>
+      <p begin="0:02:06.79" end="0:02:09.26">BALLER #1:  You're a retard. Period. You are the retard.</p>
+      <p begin="0:02:09.26" end="0:02:11.42">BALLER #2:  You look like a retard.  BALLER #1:  Well you are a retard.</p>
+      <p begin="0:02:11.42" end="0:02:13.57">BALLER #2:  You talk like a retard.  BALLER #1:  Well you're the retard.</p>
+      <p begin="0:02:13.57" end="0:02:16.83">BALLER #2:  You walk like a retard.  TEACHER:  Hey boys, boys, can you stop the</p>
+      <p begin="0:02:16.83" end="0:02:23.95">name-calling? Last time I checked, that was never a nice thing to say to anyone. It certainly</p>
+      <p begin="0:02:23.95" end="0:02:31.55">doesn't fit with our school's Code of Conduct.  Imagine how you would feel if you or someone</p>
+      <p begin="0:02:31.55" end="0:02:36.29">close to you was developmentally delayed and you heard that kind of talk.</p>
+      <p begin="0:02:36.29" end="0:02:39.06">BALLER #1:  We're just joking around, we don't really mean it.</p>
+      <p begin="0:02:39.06" end="0:02:45.89">TEACHER:  We don't joke around like that at this school. Next time, try to think a bit more before</p>
+      <p begin="0:02:45.89" end="0:02:51.66">you say something that can hurt people.  See you tomorrow boys.</p>
+      <p begin="0:02:51.66" end="0:02:55.63">And Aaron, remember, it's all in the wrist.</p>
+      <p begin="0:02:55.63" end="0:03:00.30">BALLER #2:  Thank you.  BALLER #1:  Yeah.</p>
+      <p begin="0:03:05.30" end="0:03:07.30">What Are the Exceptions?</p>
+      <p begin="0:03:07.30" end="0:03:13.27">Board employees are not required to respond if responding would, in the employee's opinion,</p>
+      <p begin="0:03:13.27" end="0:03:21.00">cause immediate physical harm to himself or herself or to that of a student or another person.</p>
+      <p begin="0:03:21.00" end="0:03:27.23">For example, a staff member working with a special needs student, may not respond if doing</p>
+      <p begin="0:03:27.23" end="0:03:31.34">so would mean leaving the student unattended, potentially placing them in</p>
+      <p begin="0:03:31.34" end="0:03:33.68">immediate physical danger.</p>
+      <p begin="0:03:33.68" end="0:03:38.50">However, board employees are expected to verbally inform the principal as soon as</p>
+      <p begin="0:03:38.50" end="0:03:43.11">possible if they do not immediately respond.</p>
+      <p begin="0:03:43.11" end="0:03:48.45">There are many new things to consider and discuss.  We'll look at what the new legislation</p>
+      <p begin="0:03:48.45" end="0:03:53.77">has to say about supporting students, then move on to some more live scenarios to</p>
+      <p begin="0:03:53.77" end="0:03:57.00">illustrate and help us understand these new requirements.</p>
+    </div>
+  </body>
+</tt>
